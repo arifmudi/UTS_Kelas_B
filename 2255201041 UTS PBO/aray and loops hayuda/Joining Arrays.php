@@ -1,0 +1,13 @@
+<?php
+//hayuda_putra_pratama
+//2255201041
+//semester_3
+namespace Codecademy;
+
+$giraffe_foods = ["dip"=>"guacamole", "chips"=>"corn", "entree"=>"grilled chicken"];
+
+$impala_foods = ["dessert"=>"cookies", "vegetable"=>"asparagus", "side"=>"mashed potatoes"];
+
+$rat_foods = ["dip"=>"mashed earth worms", "entree"=>"trash pizza", "dessert"=>"sugar cubes", "drink"=>"lemon water"];
+
+// Write your code below:
