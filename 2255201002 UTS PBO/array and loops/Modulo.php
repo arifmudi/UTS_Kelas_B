@@ -1,0 +1,8 @@
+<?php
+//arsi_dewi_saputri
+//2255201002
+//semester_3
+// Write your code below:
+ echo 82 % 6;
+  
+  
