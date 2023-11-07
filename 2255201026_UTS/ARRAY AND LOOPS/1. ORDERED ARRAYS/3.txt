@@ -1,0 +1,10 @@
+3
+<?php
+//Muhammad Thoif Setiawan
+namespace Codecademy;
+
+// Write your code below:
+$with_function = array("PHP", "popcorn", 555.55);
+//2255201026
+$with_short = ["PHP", "popcorn", 555.55];
+//kelas B

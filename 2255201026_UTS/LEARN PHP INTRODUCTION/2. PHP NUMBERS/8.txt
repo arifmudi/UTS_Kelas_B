@@ -1,0 +1,14 @@
+8
+<?php
+// Write your code below:
+ //Muhammad Thoif Setiawan
+$my_num = 10;
+$answer = $my_num;
+$answer += 2;
+$answer *= 2;
+//2255201026
+$answer -= 2;
+$answer /= 2;
+$answer -= $my_num;
+echo $answer;
+  //kelas B

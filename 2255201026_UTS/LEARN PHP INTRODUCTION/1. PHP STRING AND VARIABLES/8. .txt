@@ -1,0 +1,22 @@
+8. 
+<?php
+//Muhammad Thoif Setiawan
+  $movie = "maling";
+  $movie = "some string";
+  
+  $old_favorite = $movie;
+
+   // $new holds the value "some string"
+e
+// Add your code here:
+
+//2255201026
+
+  echo "I'm a fickle person, my favorite movie used to be $movie.";
+  
+// Add a statement here:
+  $movie = "Nata new";  
+  echo "\nBut now my favorite is $old_favorite.";
+  
+// Add a statement below:
+  //kelas B

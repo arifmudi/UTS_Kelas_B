@@ -1,0 +1,8 @@
+PHP STRING AND VARIABLES
+
+1
+<?php
+//Muhammad Thoif Setiawan
+// Write your code below:
+   echo "Hello, World!";//2255201026
+//kelas B

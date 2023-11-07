@@ -1,0 +1,21 @@
+3
+<?php
+namespace Codecademy;
+//Muhammad Thoif Setiawan
+
+function clapYourHands($is_happy, $knows_it){
+  if ($is_happy && $knows_it){
+    return "CLAP!";
+    //2255201026
+  } else {
+    return ":(";
+  }
+}
+
+echo clapYourHands(TRUE, TRUE);
+echo "\n\n";
+echo clapYourHands(TRUE, FALSE); 
+
+//kelas B
+
+

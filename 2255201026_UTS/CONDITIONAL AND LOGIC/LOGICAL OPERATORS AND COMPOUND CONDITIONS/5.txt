@@ -1,0 +1,15 @@
+5
+<?php
+namespace Codecademy;
+$fruit = "banana";
+$protein = "pork";
+//Muhammad Thoif Setiawan
+
+if ($fruit == "banana" xor $protein == "chicken"){//2255201026
+  echo "Dig in!";
+} // Write your code below:
+if ($fruit == "banana" xor $protein == "chicken"){
+  echo "Dig in!";
+} 
+
+//kelas B

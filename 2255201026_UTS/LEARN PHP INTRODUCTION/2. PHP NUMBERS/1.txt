@@ -1,0 +1,11 @@
+1
+<?php
+//Muhammad Thoif Setiawan
+// Write your code below:
+$age = 13;
+//2255201026
+echo $age;
+echo "\n";
+$rating = 5.2;
+echo $rating;
+//kelas B

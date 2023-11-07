@@ -1,0 +1,11 @@
+6.
+<?php
+//Muhammad Thoif Setiawan
+// Write your code below:
+  $name = "Hello I am a variable!";
+  $language = "Oh hi. I'm also a variable.";
+  //2255201026
+  echo "Thoif " . $name;
+  $language = "burgers";
+  echo "\nI burgers " . $language;
+   //kelas B

@@ -1,0 +1,13 @@
+7
+<?php
+//Muhammad Thoif Setiawan
+ include "top_bread.php";
+  include "mayo.php";
+  include "lettuce.php";
+  
+  echo "Sliced, ripe tomatoes\nBacon\nTurkey\n";
+  //2255201026
+  include "bottom_bread.php";
+
+
+//kelas B
