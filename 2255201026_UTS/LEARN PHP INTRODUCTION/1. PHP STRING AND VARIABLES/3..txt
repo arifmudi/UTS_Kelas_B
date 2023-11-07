@@ -1,0 +1,6 @@
+3.
+<?php  
+//Muhammad Thoif Setiawan
+echo "\n" . "tur" . "duck". "en"; 
+//2255201026
+ //kelas B

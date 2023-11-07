@@ -1,0 +1,10 @@
+ 2.
+<?php
+//Muhammad Thoif Setiawan
+// Write your code below:
+  echo "1. Another thing to do";
+  echo "\n2. cook dinner";
+  //2255201026
+  echo "\n3. curut balap \"super\"";
+ //kelas B
+  

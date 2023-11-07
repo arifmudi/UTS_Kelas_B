@@ -1,0 +1,20 @@
+2
+<?php
+//Muhammad Thoif Setiawan
+namespace Codecademy;
+function markAnswer($is_correct)
+{
+  if ($is_correct) {
+    return "green";
+  } else {
+    return "red";
+    //2255201026
+  }
+}
+
+echo markAnswer(FALSE);
+echo "\n\n";
+echo markAnswer(TRUE);
+echo "\n\n";
+//kelas B
+

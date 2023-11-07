@@ -1,0 +1,12 @@
+10.
+<?php
+//Muhammad Thoif Setiawan
+/* Imagine a lot of code here */  
+  $very_bad_unclear_name = "15 chicken wings";
+  $order =& $very_bad_unclear_name;
+  $order .= ", 15 saja";
+  //2255201026
+  $order .= "!";
+  echo $order;
+  echo "\nYour order is: $very_bad_unclear_name.";
+//kelas B

@@ -1,0 +1,21 @@
+4
+<?php
+namespace Codecademy;
+//Muhammad Thoif Setiawan
+function duckDuckGoose($is_goose){
+  if (!$is_goose){
+    return "duck";
+  } else {
+    return "goose!";
+  }
+//2255201026
+}
+
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(FALSE);
+echo "\n";
+echo duckDuckGoose(TRUE);
+
+
+//kelas B
